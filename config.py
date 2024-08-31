@@ -13,7 +13,7 @@ MaxRandomDelay = 120
 AccountList = [
     {
         "account_name": "Account 2",  # A custom name for the account (not important, just for logs)
-        "Authorization": "Bearer 1725016141007gWBMv81HJwTYWRnClBPvHB3ZwBooOGyb5O0WL8YOPZ2HiD6ok4bYFnSzC21tGngX6896218626",  # To get the token, refer to the README.md file
+        "Authorization": Bearer 1725016141007gWBMv81HJwTYWRnClBPvHB3ZwBooOGyb5O0WL8YOPZ2HiD6ok4bYFnSzC21tGngX6896218626",  # To get the token, refer to the README.md file
         "UserAgent": "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",  # Refer to the README.md file to obtain a user agent
         "Proxy": {           
   "http": "http://113.195.224.222:9999",
